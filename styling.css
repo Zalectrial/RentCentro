@@ -1,0 +1,32 @@
+body {
+}
+
+h1 {
+    text-align: center;
+}
+
+#login {
+    display: inline-block;
+    text-align: left;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    height: 80px;
+    width: 100%
+}
+
+a.footer {
+    color: darkgray;
+    text-decoration: none;
+}
+
+#footer-left {
+    alignment: left;
+}
+
+#footer-right {
+    float: right;
+    display: inline-block;
+}
