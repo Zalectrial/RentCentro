@@ -26,6 +26,13 @@ a.register {
     float: right;
 }
 
+/* Register Styling
+*/
+#register {
+    display: inline-block;
+    text-align: left;
+}
+
 /* Header/Footer Styling
 */
 #header {
