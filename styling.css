@@ -1,0 +1,57 @@
+/* General Styling
+*/
+h1 {
+    text-align: center;
+}
+
+input {
+    margin: 4px;
+}
+
+input[type="submit"] {
+    display: block;
+    margin: 0 auto;
+    margin-top: 4px;
+    width: 150px;
+}
+
+/* Login Styling
+*/
+#login {
+    display: inline-block;
+    text-align: left;
+}
+
+a.register {
+    float: right;
+}
+
+/* Header/Footer Styling
+*/
+#header {
+    width: 80%;
+    margin: 0 auto
+}
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    left: 10%;
+    right: 10%;
+    height: 80px;
+    width: 80%;
+    margin: 0 auto;
+}
+
+a.footer {
+    color: darkgray;
+    text-decoration: none;
+}
+
+#footer-left {
+}
+
+#footer-right {
+    float: right;
+    display: inline-block;
+}
