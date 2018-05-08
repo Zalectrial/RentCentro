@@ -1,5 +1,9 @@
 /* General Styling
 */
+body {
+    text-align: center;
+}
+
 h1 {
     text-align: center;
 }
@@ -13,6 +17,37 @@ input[type="submit"] {
     margin: 0 auto;
     margin-top: 4px;
     width: 150px;
+}
+
+i {
+    padding-left: 4px;
+}
+
+/* Home Styling
+*/
+#sub-header {
+    text-align: center;
+}
+
+#search-bar {
+    padding-left: 10%;
+    float: left;
+}
+
+a.login-user-link {
+    color: darkgray;
+    display: inline-block;
+    float: right;
+    padding-right: 10%;
+}
+
+#featured-property {
+    margin-top: 48px;
+    display: inline-block;
+}
+
+#featured-property #featured-property-info {
+    text-align: right;
 }
 
 /* Login Styling
@@ -56,6 +91,7 @@ a.footer {
 }
 
 #footer-left {
+    text-align: left;
 }
 
 #footer-right {
