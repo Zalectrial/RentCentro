@@ -23,6 +23,12 @@ i {
     padding-left: 4px;
 }
 
+p {
+    display: inline-block;
+    width: 60%;
+    text-align: left;
+}
+
 /* Home Styling
 */
 #sub-header {
