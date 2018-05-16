@@ -74,6 +74,13 @@ a.register {
     text-align: left;
 }
 
+/* Search Styling
+*/
+#search {
+    display: inline-block;
+    text-align: left;
+}
+
 /* Header/Footer Styling
 */
 #header {
